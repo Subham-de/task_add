@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form{
+    background-color: black;
+    color: white;
+    height: 300px;
+    width: 30%;
+    margin:200px auto ;
+    text-align: center;
+    
+}
+.form input {
+    padding: 0px 20px;
+    height: 30px;
+    margin:20px 0px 20px 0px;
+    width: 80%;
+    border: none;
+    box-shadow: 2px 2px 2px gray;
+}
+.form button{
+    height: 50px;
+    width: 100px;
+    border: 2px solid navy;
+}
