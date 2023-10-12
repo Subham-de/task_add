@@ -1,0 +1,13 @@
+--------------------new add
+git init
+git remote add origin link
+git add .
+git commit -m "commit"
+git push orgin master
+
+
+
+-----------existing add
+git add .
+git commit -m "new"
+git push orgin master
